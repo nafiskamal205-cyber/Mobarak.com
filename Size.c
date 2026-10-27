@@ -1,6 +1,6 @@
 #include <stdio.h>
 // Try to find the size of different data types in C
-int main() 
+int main()
 {
       int i;
       float f;
@@ -11,4 +11,5 @@ int main()
       printf(" size of double = %d bytes\n", sizeof(d));
       printf(" size of char = %d bytes\n", sizeof(c));
       return 0;
+
 }
